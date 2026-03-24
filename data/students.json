@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Amal Perera",
+    "grade": "10",
+    "class": "A",
+    "email": "amal@example.com"
+  },
+  {
+    "id": "2",
+    "name": "Kamali Silva",
+    "grade": "10",
+    "class": "B",
+    "email": "kamali@example.com"
+  },
+  {
+    "id": "3",
+    "name": "Nimal Rathnayake",
+    "grade": "9",
+    "class": "A",
+    "email": "nimal@example.com"
+  }
+]
