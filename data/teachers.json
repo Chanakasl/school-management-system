@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Mrs. Sunethra Bandara",
+    "subject": "Mathematics",
+    "email": "sunethra@school.com"
+  },
+  {
+    "id": "2",
+    "name": "Mr. Pradeep Kumara",
+    "subject": "Science",
+    "email": "pradeep@school.com"
+  }
+]
